@@ -1,0 +1,33 @@
+{
+  "name": "typescript-rotary-encoder",
+  "version": "0.0.1",
+  "description": "Rotary Encoder implementation in TypeScript",
+  "repository": "https://github.com/luwar/typescript-rotary-encoder",
+  "license": "UNLICENSED",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "gulp test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "del": "2.1.0",
+    "gulp": "3.9.0",
+    "gulp-debug": "2.1.2",
+    "gulp-help": "1.6.1",
+    "gulp-jasmine": "2.2.1",
+    "gulp-load-plugins": "1.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sequence": "0.4.1",
+    "gulp-sourcemaps": "1.6.0",
+    "gulp-tslint": "3.6.0",
+    "gulp-tslint-stylish": "1.1.1",
+    "gulp-typescript": "2.9.2",
+    "gulp-util": "3.0.7",
+    "jasmine": "2.3.2"
+  },
+  "engines": {
+    "node": ">=5.1.0"
+  }
+}
